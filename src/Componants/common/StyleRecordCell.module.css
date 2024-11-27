@@ -1,0 +1,9 @@
+.Style-record-cell {
+  border: 2px solid var(--theme-background-ultralight);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 20px;
+}
